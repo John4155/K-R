@@ -7,7 +7,7 @@ RESOURCES
 
 FOLDERS:
 
-K&R1-12
+K&R1-12      (https://github.com/John4155/K-R/tree/main/K%26R1-12)
   1. main1.c - READY
   2. main2.c - READY
   3. main3.c - READY
