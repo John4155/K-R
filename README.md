@@ -37,28 +37,28 @@ K&R1-12
   26. email_FC.draw - NOT READY
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 K&R13-24
-          1. main13.c – NOT READY
-          2. main14.c – NOT READY
-          3. main15.c – NOT READY
-          4. main16.c – NOT READY
-          5. main17.c – NOT READY
-          6. main18.c – NOT READY
-          7. main19.c – NOT READY
-          8. main20.c – NOT READY
-          9. main21.c – NOT READY
-          10. main22.c – NOT READY
-          11. main23.c – NOT READY
-          12. main24.c – NOT READY
- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-          13. main13_FC.draw – NOT READY
-          14. main14_FC.draw – NOT READY
-          15. main15_FC.draw – NOT READY
-          16. main16_FC.draw – NOT READY
-          17. main17_FC.draw – NOT READY
-          18. main18_FC.draw – NOT READY
-          19. main19_FC.draw – NOT READY
-          20. main20_FC.draw – NOT READY
-          21. main21_FC.draw – NOT READY
-          22. main22_FC.draw – NOT READY
-          23. main23_FC.draw – NOT READY
-          24. main24_FC.draw – NOT READY
+  1. main13.c – NOT READY
+  2. main14.c – NOT READY
+  3. main15.c – NOT READY
+  4. main16.c – NOT READY
+  5. main17.c – NOT READY
+  6. main18.c – NOT READY
+  7. main19.c – NOT READY
+  8. main20.c – NOT READY
+  9. main21.c – NOT READY
+  10. main22.c – NOT READY
+  11. main23.c – NOT READY
+  12. main24.c – NOT READY
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  13. main13_FC.draw – NOT READY
+  14. main14_FC.draw – NOT READY
+  15. main15_FC.draw – NOT READY
+  16. main16_FC.draw – NOT READY
+  17. main17_FC.draw – NOT READY
+  18. main18_FC.draw – NOT READY
+  19. main19_FC.draw – NOT READY
+  20. main20_FC.draw – NOT READY
+  21. main21_FC.draw – NOT READY
+  22. main22_FC.draw – NOT READY
+  23. main23_FC.draw – NOT READY
+  24. main24_FC.draw – NOT READY
