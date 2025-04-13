@@ -35,7 +35,7 @@ K&R1-12
   24. main12_FC.draw - NOT READY
   25. email.c - NOT READY
   26. email_FC.draw - NOT READY
---------------------------------------------------
+  ---
 K&R13-24
   1. main13.c – NOT READY
   2. main14.c – NOT READY
@@ -49,7 +49,7 @@ K&R13-24
   10. main22.c – NOT READY
   11. main23.c – NOT READY
   12. main24.c – NOT READY
-  ------------------------------------------------
+  ---
   13. main13_FC.draw – NOT READY
   14. main14_FC.draw – NOT READY
   15. main15_FC.draw – NOT READY
