@@ -20,6 +20,7 @@ K&R1-12
   10. main10.c - READY
   11. main11.c - READY
   12. main12.c - READY
+  
   13. main1_FC.draw - NOT READY
   14. main2_FC.draw - NOT READY
   15. main3_FC.draw - NOT READY
@@ -48,6 +49,7 @@ K&R13-24
   10. main22.c – NOT READY
   11. main23.c – NOT READY
   12. main24.c – NOT READY
+      
   13. main13_FC.draw – NOT READY
   14. main14_FC.draw – NOT READY
   15. main15_FC.draw – NOT READY
