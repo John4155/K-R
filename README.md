@@ -21,18 +21,18 @@ K&R1-12      (https://github.com/John4155/K-R/tree/main/K%26R1-12)
   11. main11.c - READY
   12. main12.c - READY
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  13. main1_FC.draw - NOT READY
-  14. main2_FC.draw - NOT READY
-  15. main3_FC.draw - NOT READY
-  16. main4_FC.draw - NOT READY
-  17. main5_FC.draw - NOT READY
-  18. main6_FC.draw - NOT READY
-  19. main7_FC.draw - NOT READY
-  20. main8_FC.draw - NOT READY
-  21. main9_FC.draw - NOT READY
-  22. main10_FC.draw - NOT READY
-  23. main11_FC.draw - NOT READY
-  24. main12_FC.draw - NOT READY
+  13. main1_FC.draw - READY
+  14. main2_FC.draw - READY
+  15. main3_FC.draw - READY
+  16. main4_FC.draw - READY
+  17. main5_FC.draw - READY
+  18. main6_FC.draw - READY
+  19. main7_FC.draw - READY
+  20. main8_FC.draw - READY
+  21. main9_FC.draw - READY
+  22. main10_FC.draw - READY
+  23. main11_FC.draw - READY
+  24. main12_FC.draw - READY
   25. email.c - NOT READY
   26. email_FC.draw - NOT READY
   ---
@@ -41,7 +41,7 @@ K&R13-24      (https://github.com/John4155/K-R/tree/main/K%26R13-24)
   1. main13.c – READY 15.04
   2. main14.c – READY 17.04
   3. main15.c – READY 20.04
-  4. main16.c – NOT READY
+  4. main16.c – READY 23.04
   5. main17.c – NOT READY
   6. main18.c – NOT READY
   7. main19.c – NOT READY
