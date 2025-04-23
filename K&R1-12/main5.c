@@ -10,4 +10,5 @@
  printf("%3.0f %6.1f\n", fahr, celsius);
  fahr = fahr-20;
  }
+  return 0;
  }
